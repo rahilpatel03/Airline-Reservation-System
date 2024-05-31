@@ -1,0 +1,16 @@
+ _________________________________________________ 
+|                                                 |
+|                AIRLINE TICKET                   |
+|                                                 |
+| Passenger: jay                                  |
+| Email: jay@gm.com                               |
+| Phone Number: 8469939018                        |
+| Flight ID: 2                                    |
+| Origin: Delhi                                   |
+| Destination: Kolkata                            |
+| Seat Number: 97                                 |
+| Class: Buisness                                 |
+| Time of Flight: 21:45:00                        |
+| Date of Flight: 2023-05-02                      |
+| Total Fare: $12320.0                            |
+|_________________________________________________|
